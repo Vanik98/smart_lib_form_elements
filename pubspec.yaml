@@ -24,22 +24,3 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  assets:
-    - assets/
-
-authors:
-  - Vanik Dallakyan <vanik.dallakyan@yourdomain.com>
-  - GitHub: https://github.com/Vanik98
-  - LinkedIn: https://www.linkedin.com/in/vanik-dallakyan-756b4a1a2/
-
-keywords:
-  - flutter
-  - form
-  - widgets
-  - validation
-  - calendar
-  - checkbox
-  - photo
-  - radio
-  - textfield
-  - material
