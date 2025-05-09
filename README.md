@@ -120,8 +120,7 @@ Check out the [example project](https://github.com/Vanik98/smart_lib_form_elemen
 ---
 
 ## 🤝 Maintained By
-**Vanik Dallakyan**  
-Senior Mobile Developer | Co-Founder  
+**Vanik Dallakyan**
 [GitHub](https://github.com/Vanik98) | [LinkedIn](https://www.linkedin.com/in/vanik-dallakyan-756b4a1a2/)
 
 ---
